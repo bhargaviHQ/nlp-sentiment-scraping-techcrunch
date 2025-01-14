@@ -110,8 +110,6 @@ article_df = pd.DataFrame({
 
 
 merged_df = pd.merge(df_cleaned, article_df, on='Link', how='inner')
-merged_df
-
 file_exists = os.path.isfile('merged_articles.csv')
 merged_df.to_csv('merged_articles.csv', mode='a', header=not file_exists, index=False)
 file_exists = True
