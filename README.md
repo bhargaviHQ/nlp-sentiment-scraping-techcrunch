@@ -13,7 +13,7 @@ This project involves scraping over 9000+ articles related to [Artificial Intell
 
 1. **Web Scraping:** 
    - The project starts by scraping articles related to Artificial Intelligence from the TechCrunch website.
-   - [`web-scraper-01.py`](https://github.com/bhargaviHQ/nlp-sentiment-scraping-techcrunch/blob/main/web-scraper-01.py) handles the scraping of articles from the first page, while [`web-scraper-02.py`](https://github.com/bhargaviHQ/nlp-sentiment-scraping-techcrunch/blob/main/web-scraper-02.py) scrapes the remaining pages, up to a total of 333 pages.
+   - [`web-scraper-01.py`](https://github.com/bhargaviHQ/nlp-sentiment-scraping-techcrunch/tree/main/web-scraper/web-scraper-01.py) handles the scraping of articles from the first page, while [`web-scraper-02.py`](https://github.com/bhargaviHQ/nlp-sentiment-scraping-techcrunch/tree/main/web-scraper/web-scraper-02.py) scrapes the remaining pages, up to a total of 333 pages.
    
 2. **Sentiment Analysis:** 
    - Each article is analyzed for sentiment using VADER sentiment analysis from the NLTK library. Articles are classified as having positive, negative, or neutral sentiment.
