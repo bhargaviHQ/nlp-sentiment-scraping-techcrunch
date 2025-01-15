@@ -1,4 +1,4 @@
-### NLP Sentiment Analysis with Web Scraping of Articles from TechCrunch
+## NLP Sentiment Analysis with Web Scraping of Articles from TechCrunch
 This project involves scraping over 9000+ articles related to [Artificial Intelligence from TechCrunch](https://techcrunch.com/category/artificial-intelligence/), performing sentiment analysis, and providing an interactive dashboard where users can filter articles based on sentiment and company mentions. The data is stored in MongoDB Atlas, and the analysis is visualized with Streamlit.
 
 ### Libraries and Tools
