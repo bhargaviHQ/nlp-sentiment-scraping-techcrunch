@@ -63,8 +63,8 @@ View [screenshots](https://github.com/bhargaviHQ/nlp-sentiment-scraping-techcrun
 - app.py - Streamlit interactive dashboard code
 - main.py - MongoDB Atlas connection and sentiment analysis code
 - requirements.txt - List of required libraries
-- web-scraper-01.py - Web scraper for scraping articles from the first page of TechCrunch
-- web-scraper-02.py - Web scraper for scraping articles from subsequent pages (up to 333 pages)
+- web-scraper/web-scraper-01.py - Web scraper for scraping articles from the first page of TechCrunch
+- web-scraper/web-scraper-02.py - Web scraper for scraping articles from subsequent pages (up to 333 pages)
 - screenshots/ - Folder containing screenshots of the dashboard
 
 
