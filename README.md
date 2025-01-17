@@ -59,6 +59,8 @@ User-friendly dashboard with filters for sentiment and company-related metrics.
 ###  Screenshots
 View [screenshots](https://github.com/bhargaviHQ/nlp-sentiment-scraping-techcrunch/tree/main/screenshots) of the application in action
 
+![Project Flow](https://github.com/bhargaviHQ/nlp-sentiment-scraping-techcrunch/blob/main/screenshots/flow.jpg)
+
 ###  Project Structure
 - app.py - Streamlit interactive dashboard code
 - main.py - MongoDB Atlas connection and sentiment analysis code
