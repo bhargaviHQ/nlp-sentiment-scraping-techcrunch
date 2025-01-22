@@ -69,7 +69,6 @@ View [screenshots](https://github.com/bhargaviHQ/nlp-sentiment-scraping-techcrun
 - web-scraper/web-scraper-02.py - Web scraper for scraping articles from subsequent pages (up to 333 pages)
 - screenshots/ - Folder containing screenshots of the dashboard
 
-
 ### License
 
 [MIT](https://choosealicense.com/licenses/mit/)
